@@ -1,1 +1,1 @@
-# landing-page
+This is the second project in The Odin Project's curriculum. We have to make a landing page and style it using CSS.
